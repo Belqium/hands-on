@@ -1,6 +1,6 @@
 # hands-on
 
-##Purpose
+## Purpose
 
 This repository is made for feeling out the GitHub functions: 
 - permission system
@@ -9,7 +9,7 @@ This repository is made for feeling out the GitHub functions:
 
 Corrections from other contributors will be rejected.
 
-##The road so far
+## The road so far
 To bring this repository to life, I made the following steps:
 
 1. Logged in the  github.com.
